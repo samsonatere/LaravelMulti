@@ -1,2 +1,3 @@
 # LaravelMulti
-Authentication API on laravel
+Authentication API with laravel
+And a dropzone for uploading images
